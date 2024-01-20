@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #1f1f1f;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #636363;
+    color: rgb(255, 255, 255);
+  }
+  
+  a {
+    text-decoration: none;
+    color: #2196f3;
+  }
+  
+  .message_g{
+    text-align: center;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+}
+  .message_f{
+    text-align: center;
+    background: #ffffff;
+    color: rgb(219, 52, 52);
+}
+
+
+.btn{
+
+    background-color: #1f1f1f;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+.right-links {
+    display: flex;
+    align-items: center;
+}
+
+.right-links button {
+    margin-left: 5px;
+}
