@@ -1,13 +1,13 @@
 When building database:
-CREATE TABLE users (
-    Id INT AUTO_INCREMENT PRIMARY KEY,
-    Username VARCHAR(255) NOT NULL,
-    Email VARCHAR(255) NOT NULL,
-    Password VARCHAR(255) NOT NULL,
-    CreationDate DATETIME NOT NULL
-);
+<p> CREATE TABLE users ( </p>
+  <p>Id INT AUTO_INCREMENT PRIMARY KEY,</p>  
+  <p>Username VARCHAR(255) NOT NULL,</p>    
+  <p>Email VARCHAR(255) NOT NULL,</p>  
+  <p>Password VARCHAR(255) NOT NULL,</p>     
+  <p>CreationDate DATETIME NOT NULL </p>   
+<p>);</p>
 
-Host: localhost
-User: root
-Password:
-Database Name: eqs
+<p>Host: localhost</p>
+<p></p>User: root</p>
+<p></p>Password:</p>
+<p></p>Database Name: eqs</p>
